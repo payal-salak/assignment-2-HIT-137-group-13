@@ -1,3 +1,18 @@
+"""
+HIT137 Assignment 2 - Question 1
+A program that reads the text file “raw_text.txt”, encrypts its contents using a 
+simple encryption method, and writes the encrypted text to a new file 
+“encrypted_text.txt”. Then create a function to decrypt the content, and a function to 
+check the correctness of decrypted text.
+
+Group number CAS/DAN 13
+S361253 Ashton Searle
+s389249 payal 
+S391075 Amanparteek singh
+S390786 Anshul
+S391273 komalpreet kaur
+"""
+
 import string
 
 input_file = "raw_text.txt"
